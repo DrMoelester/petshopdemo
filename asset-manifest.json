@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/petshopdemo/static/css/main.42637e2c.css",
+    "main.js": "/petshopdemo/static/js/main.8eba0f7e.js",
+    "static/js/787.f587e8d5.chunk.js": "/petshopdemo/static/js/787.f587e8d5.chunk.js",
+    "static/media/background-slider1.jpg": "/petshopdemo/static/media/background-slider1.cd499cc61dad06aa1887.jpg",
+    "static/media/block5.gif": "/petshopdemo/static/media/block5.d466174ff464841ef73e.gif",
+    "static/media/block4.gif": "/petshopdemo/static/media/block4.163ff236a3654117a6d1.gif",
+    "static/media/block3.gif": "/petshopdemo/static/media/block3.7b04916eab96006b6f21.gif",
+    "static/media/block2.png": "/petshopdemo/static/media/block2.36cb7fb7652988a4c82b.png",
+    "static/media/block1.png": "/petshopdemo/static/media/block1.3b7479131f1acdfadf76.png",
+    "static/media/companylogo.jpg": "/petshopdemo/static/media/companylogo.dbaff6c3210bb404dbbc.jpg",
+    "static/media/banner.gif": "/petshopdemo/static/media/banner.6be4fbd490ee289d8542.gif",
+    "static/media/footer.webp": "/petshopdemo/static/media/footer.711e5b90cb6881c62104.webp",
+    "static/media/background-slider2.jpg": "/petshopdemo/static/media/background-slider2.3421bec0ba8e0bf0c5b4.jpg",
+    "static/media/background-slider3.jpeg": "/petshopdemo/static/media/background-slider3.b97f99e087d73ddba9a0.jpeg",
+    "index.html": "/petshopdemo/index.html",
+    "main.42637e2c.css.map": "/petshopdemo/static/css/main.42637e2c.css.map",
+    "main.8eba0f7e.js.map": "/petshopdemo/static/js/main.8eba0f7e.js.map",
+    "787.f587e8d5.chunk.js.map": "/petshopdemo/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42637e2c.css",
+    "static/js/main.8eba0f7e.js"
+  ]
+}
